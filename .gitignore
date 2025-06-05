@@ -89,7 +89,6 @@ build/
 .vite/
 
 # Tailwind CSS build file (if generated)
-/src/index.css
 
 # Miscellaneous
 *.log
