@@ -1,4 +1,4 @@
-import { Briefcase, Code, User } from "lucide-react";
+import { Briefcase, Code } from "lucide-react";
 
 export const AboutSection = () => {
   return (
@@ -36,8 +36,10 @@ export const AboutSection = () => {
                   ¡Escríbeme!
                 </a>
 
+                {/* Enlace para descargar el CV */}
                 <a
-                  href=""
+                  href="/CV-FranciscoMartinez.pdf"
+                  download="JuanFranciscoMartinez_CV.pdf"
                   className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
                 >
                   Descarga mi CV
