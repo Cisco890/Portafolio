@@ -1,0 +1,96 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# Node modules
+/node_modules
+/.pnp
+.pnp.js
+
+# Build outputs
+/dist
+/build
+/.vite
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+/.turbo
+/.cache
+/.next
+/.nuxt
+
+# Local env files
+.env
+.env.local
+.env.*.local
+
+# IDE / Editor folders and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.DS_Store
+
+# macOS
+*.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Lockfiles (if you want to regenerate)
+/package-lock.json
+/yarn.lock
+/pnpm-lock.yaml
+
+# Logs and debug files
+/debug.log*
+
+# Coverage directory used by testing tools
+/coverage
+
+# Build artifacts
+dist/
+build/
+
+# Optional npm cache directory
+.npm
+
+# JetBrains IDE
+.idea/
+
+# Vite
+.vite/
+
+# Tailwind CSS build file (if generated)
+/src/index.css
+
+# Miscellaneous
+*.log
+*.tmp
