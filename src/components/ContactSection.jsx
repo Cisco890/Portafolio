@@ -86,7 +86,7 @@ export const ContactSection = () => {
                 <input
                   type="hidden"
                   name="_next"
-                  value="https://pokestore-frontend-cisco890-cisco890s-projects.vercel.app/" //cambiar esto por tu URL de éxito
+                  value="https://portafoliojfm.vercel.app/" //cambiar esto por tu URL de éxito
                 />
 
                 <div>
