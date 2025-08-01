@@ -38,8 +38,8 @@ export const AboutSection = () => {
 
                 {/* Enlace para descargar el CV */}
                 <a
-                  href="/CV-FranciscoMartinez.pdf"
-                  download="JuanFranciscoMartinez_CV.pdf"
+                  href="/CV_JuanFranciscoMartinez.pdf"
+                  download="CV_JuanFranciscoMartinez.pdf"
                   className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
                 >
                   Descarga mi CV
